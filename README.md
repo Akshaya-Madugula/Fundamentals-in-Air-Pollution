@@ -16,22 +16,6 @@ The **CO₂ Climate Change Model** is a simulation project aimed at understandin
 
 This project contributes to a deeper understanding of climate change mechanisms and the role of greenhouse gases. It serves as an educational tool for those interested in climate science, helping to visualize the relationships between CO₂ levels and global temperature shifts.
 
-### Technologies Used
-
-- **Python**: The primary programming language for the simulations and calculations.
-- **Pandas**: For data manipulation and analysis.
-- **NumPy**: For numerical computations.
-- **Matplotlib**: For data visualization.
-- **SciPy**: For scientific computing tasks, including solving differential equations.
-
-### How to Use
-
-1. Clone the repository.
-2. Install the required packages.
-3. Run the main script to simulate and visualize the results.
-
-
-
 ### Acknowledgments
 I have discussed this project with Mr. Pravin regarding the data, and initial concept understanding,.
 This project builds upon existing research and models in climate science. Special thanks to the open-source community for providing the libraries and tools used in this project.
