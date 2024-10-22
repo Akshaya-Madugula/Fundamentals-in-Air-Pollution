@@ -7,13 +7,6 @@ This project focuses on analyzing the impact of increasing carbon dioxide (CO₂
 
 Using historical CO₂ data (e.g., from Mauna Loa) and simple climate models, the project simulates how both current and doubled CO₂ concentrations affect the Earth’s climate. By exploring different scenarios, this project helps us understand the role of CO₂ in driving global warming and how simple models can be used to predict future changes.
 
-### Key Objectives
-
-- **Simulate CO₂ Levels**: Model both stable and doubled CO₂ concentrations to analyze their effects on climate.
-- **Energy Balance Analysis**: Evaluate how incoming solar radiation and outgoing heat interact under different CO₂ scenarios.
-- **Heat Transport Efficiency**: Investigate changes in heat transport efficiency due to increased greenhouse gases.
-- **Temperature Visualization**: Provide graphical representations of temperature changes over time to illustrate the model's findings.
-
 ### Key Questions Addressed
 - Compute and plot global average concentrations as a function of CO₂:
 This part uses data from Mauna Loa to compute how CO₂ concentrations affect global average temperature. The project assumes a quasi-equilibrium condition and uses a logarithmic model to estimate temperature changes (ΔT) as CO₂ increases.
