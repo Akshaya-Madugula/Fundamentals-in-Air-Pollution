@@ -30,8 +30,8 @@ This project contributes to a deeper understanding of climate change mechanisms 
 2. Install the required packages.
 3. Run the main script to simulate and visualize the results.
 
-For more detailed instructions, please refer to the [Installation](#installation) and [Usage](#usage) sections.
+
 
 ### Acknowledgments
-
+I have discussed this project with Mr. Pravin regarding the data, and initial concept understanding,.
 This project builds upon existing research and models in climate science. Special thanks to the open-source community for providing the libraries and tools used in this project.
