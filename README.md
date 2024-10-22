@@ -17,5 +17,5 @@ The **CO₂ Climate Change Model** is a simulation project aimed at understandin
 This project contributes to a deeper understanding of climate change mechanisms and the role of greenhouse gases. It serves as an educational tool for those interested in climate science, helping to visualize the relationships between CO₂ levels and global temperature shifts.
 
 ### Acknowledgments
-I have discussed this project with Mr. Pravin regarding the data, and initial concept understanding,.
-This project builds upon existing research and models in climate science. Special thanks to the open-source community for providing the libraries and tools used in this project.
+Special thanks to Mr. Pravin for discussing regarding the data, and initial concept understanding.
+
